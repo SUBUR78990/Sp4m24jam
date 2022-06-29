@@ -15,7 +15,7 @@ $ pkg install curl
 $ pkg install python
 $ pkg install python2
 $ pkg install python3
-$ pip install requests
+$ pip install -r requirements.txt
 $ pip install bs4
 $ pip install keyboard
 $ cd Sp4m24jam
