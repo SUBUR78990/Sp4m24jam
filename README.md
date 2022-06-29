@@ -8,6 +8,7 @@ $ apt upgrade
 $ apt update
 $ pkg update
 $ pkg upgrade
+$ pkg install nano
 $ pkg install jq
 $ pkg install pip
 $ pkg install git
