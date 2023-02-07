@@ -1,0 +1,5 @@
+pkg install curl
+pip install requests
+pip install bs4
+pkg install jq
+pip install keyboard
