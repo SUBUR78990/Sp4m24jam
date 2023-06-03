@@ -1,0 +1,5 @@
+curl
+requests
+bs4
+jq
+keyboard
